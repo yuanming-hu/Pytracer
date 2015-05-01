@@ -1,0 +1,4 @@
+output
+*.pyc
+*.mpeg
+renderer/CMakeCache.txt

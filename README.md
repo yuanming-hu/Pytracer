@@ -5,12 +5,12 @@ Image Rendered:
 
 Cup:
 
-![image](https://github.com/IteratorAdvance/Pytacer/raw/master/demos/cup.png)
+![image](https://github.com/IteratorAdvance/Pytracer/raw/master/demos/cup.png)
 
 Dragon:
 
-![image](https://github.com/IteratorAdvance/Pytacer/raw/master/demos/dragon.png)
+![image](https://github.com/IteratorAdvance/Pytracer/raw/master/demos/dragon.png)
 
 Solar System:
 
-![image](https://github.com/IteratorAdvance/Pytacer/raw/master/demos/solar.png)
+![image](https://github.com/IteratorAdvance/Pytracer/raw/master/demos/solar.png)

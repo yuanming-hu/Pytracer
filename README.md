@@ -1,3 +1,4 @@
+## This is my old (and obsolete) freshmen project. A better designed and more powerful one by me is [Taichi](https://github.com/yuanming-hu/taichi).
 # Pytracer
 Path tracing renderer written from scratch in C++ with Python interface.
 
